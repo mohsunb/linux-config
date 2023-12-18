@@ -1,1 +1,0 @@
-export OBS_VKCAPTURE=1
